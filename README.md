@@ -26,16 +26,17 @@ The users of Commoditic's livestock commodities prices data are of diverse backg
 
 Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation</a> includes input API filtering parameters, output response objects with explanation of their meanings. Clear request and response examples are given on the documentation page.
 
-https://commoditic.com/api/v1/commodities
-    ?key=[API-KEY]&category=livestock
 
-{
-    "status": {
+<p><strong>API endpoints<p>
+<p><a href="https://commoditic.com/api-documentation">https://commoditic.com/api/v1/commodities?key=[API-KEY]&category=livestock</a></p>
+
+
+     "status": {
         "message": "Success"
     },
     "results": [
         {
-            "category": "Livestock",
+          "category": "Livestock",
             "Name": "Live Cattle"
             "Unit": "USD/Lbs"
             "Price": "137.13750"
@@ -47,8 +48,6 @@ https://commoditic.com/api/v1/commodities
             "Date": "2022.07.2022"
         }
     [
-}
-
 
 <h2>Customer support</h2>
 In case that you encounter a data issue, please contact us at support@commoditic.com.
