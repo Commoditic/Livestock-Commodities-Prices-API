@@ -28,8 +28,8 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
 
 
 <p><strong>API endpoints<p>
-<p><a href="https://commoditic.com/api-documentation">https://commoditic.com/api/v1/commodities?key=[API-KEY]&category=livestock</a></p>
-
+<p><a href="https://commoditic.com/livestock-commodities-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=livestock </a></p>
+ 
 
      "status": {
         "message": "Success"
