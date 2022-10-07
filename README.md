@@ -46,9 +46,7 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
             "Monthly Percentage Change": "2.61%"
             "Yearly Percentage Change": "13.07%"
             "Date": "2022.07.2022"
-        }
-    [
- 
+
  
 <p><a href="https://commoditic.com/livestock-commodities-prices-api/"> https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=livestock</a></p>
 
@@ -92,10 +90,6 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
             "Yearly Percentage Change": "278.30%"
             "Date": "2022.10.06"
  
- 
-        }
-    [
-
  
 <h2>Customer support</h2>
 In case that you encounter a data issue, please contact us at support@commoditic.com.
