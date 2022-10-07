@@ -97,13 +97,6 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
     [
 
  
- 
- 
- 
- 
- 
- 
-
 <h2>Customer support</h2>
 In case that you encounter a data issue, please contact us at support@commoditic.com.
 
