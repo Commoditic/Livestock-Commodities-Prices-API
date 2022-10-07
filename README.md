@@ -48,6 +48,61 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
             "Date": "2022.07.2022"
         }
     [
+ 
+ 
+<p><a href="https://commoditic.com/livestock-commodities-prices-api/"> https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=livestock</a></p>
+
+ 
+    "status": {
+        "message": "Success"
+    },
+    "results": [
+        {
+            "category": "Livestock",
+            "Name": "Live Cattle"
+            "Unit": "USD/Lbs"
+            "Price": "137.13750"
+            "Day Price Change": "1.6500"
+            "Day Percentage Change": "1.22%"
+            "Weekly Percentage Change": "1.82%"
+            "Monthly Percentage Change": "2.61%"
+            "Yearly Percentage Change": "13.07%"
+            "Date": "2022.07.22"
+       
+ 
+            "category": "Livestock",
+            "Name": "Beef"
+            "Unit": "BRL/Kgs"
+            "Price": "19.56"
+            "Day Price Change": "0.00"
+            "Day Percentage Change": "0.00%"
+            "Weekly Percentage Change": "-0.36%"
+            "Monthly Percentage Change": "-1.61%"
+            "Yearly Percentage Change": "0.67%"
+            "Date": "2022.10.06"
+ 
+            "category": "Livestock",
+            "Name": "Eggs_US"
+            "Unit": "USD/Dozen"
+            "Price": "4.01"
+            "Day Price Change": "0.00"
+            "Day Percentage Change": "0.00%"
+            "Weekly Percentage Change": "11.39%"
+            "Monthly Percentage Change": "93.72%"
+            "Yearly Percentage Change": "278.30%"
+            "Date": "2022.10.06"
+ 
+ 
+        }
+    [
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 <h2>Customer support</h2>
 In case that you encounter a data issue, please contact us at support@commoditic.com.
