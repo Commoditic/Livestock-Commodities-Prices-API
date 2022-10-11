@@ -28,7 +28,7 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
 
 
 <p><strong>API endpoints<p>
-<p><a href="https://commoditic.com/livestock-commodities-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&name=livestock </a></p>
+<p><a href="https://commoditic.com/livestock-commodities-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&name=live_cattle</a></p>
  
 
      "status": {
